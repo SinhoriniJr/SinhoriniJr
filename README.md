@@ -1,11 +1,20 @@
-### Olá Sou Milton Junior 
-
-![SinhoriniJr GitHub stats](https://github-readme-stats.vercel.app/api?username=SinhoriniJr&theme=blue-green)
-
-## Tecnologias que eu uso no meu dia
-<div style="display: inline_block"><br/>
-    <img aling ="center" alt= "Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />    
-    <img aling ="center" alt= "HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> 
-    <img aling ="center" alt= "Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />  
-    <img aling ="center" alt= "MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />    
-</div>
+Hi There!👋
+ 
+My name is Milton Junior. I'm 27 years old, and in 2023 I had my first contact with the world of programming. I started with HTML and CSS, and today my main focus is on developing web applications using the Spring Framework (Java) and React.
+I'm passionate about learning and constantly seeking to expand my knowledge.
+<br>I have basic knowledge of Spring.<br/>
+ 
+ 
+- 📘 English level: medium 
+- 🎓 Systems Analysis and Development – SENAC, Florianópolis
+- 💡 Seeking knowledge
+ 
+ 
+## Tools that I dominate
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,html,css,java,spring,postman,mysql,maven,docker)](https://skillicons.dev)
+ 
+[![My Skills](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)
+ 
+My social media
+<a href="https://instagram.com/jrsinhorini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinisprd" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/miltonnjunior/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vinicius de Souza Prado" height="30" width="40" /></a>
