@@ -4,11 +4,15 @@ My name is Milton Junior. I'm 27 years old, and in 2023 I had my first contact w
 I'm passionate about learning and constantly seeking to expand my knowledge.
 <br>I have basic knowledge of Spring.<br/>
  
- 
-- 📘 English level: medium 
-- 🎓 Systems Analysis and Development – SENAC, Florianópolis
-- 💡 Seeking knowledge
- 
+
+
+- 👨‍💻 I work as an IT intern at Colégio Salvatoriano Nossa Senhora de Fátima, where I help develop solutions to improve educational and administrative workflows.
+
+- 💡 My repositories reflect my learning journey and practical projects — from front-end interfaces to backend APIs and DevOps experiments.
+
+- 📚 Constantly learning and looking for new challenges to grow as a developer.
+
+
  
 ## Tools that I dominate
 [![My Skills](https://skillicons.dev/icons?i=javascript,react,html,css,java,spring,postman,mysql,maven,docker)](https://skillicons.dev)
